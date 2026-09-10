@@ -1,0 +1,7 @@
+name = "studymate-api"
+main = "src/index.ts"
+compatibility_date = "2026-09-10"
+
+[vars]
+# Set this to the OpenRouter model you want to use.
+OPENROUTER_MODEL = "openai/gpt-oss-20b"
